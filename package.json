@@ -1,0 +1,9 @@
+{
+  "name": "test-snyk",
+  "version": "1.0.0.",
+  "dependencies": {
+    "lodash": "4.7.10",
+    "jquery": "1.9.0",
+    "express": "4.16.1"
+  }
+}
